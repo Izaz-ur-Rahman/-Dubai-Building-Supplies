@@ -457,7 +457,7 @@ ul.sub-menu li:hover a span{
     font-size: 50px;
     line-height: 65px;
     font-weight: 800;
-    color: #152b63;
+    color: black;
     text-transform: uppercase;
 }
 
@@ -493,7 +493,7 @@ p.hero-desc {
     right: 0;
     bottom: 0;
     border-radius: 5px 30px 30px 30px;
-    background: #cd0d14;
+    background: black;
     transform: scale(0);
     transition: .5s;
 }
@@ -754,7 +754,7 @@ span.counter-text {
     top: 0;
     width: 90px;
     height: 90px;
-    background-color: #162B64;
+    background-color: black;
     transition: .5s;
 }
 
@@ -852,6 +852,7 @@ h3.service-title a {
     font-size: 20px;
     transition: .5s;
     font-weight: 600;
+    text-transform: uppercase;
 }
 
 h3.service-title a:hover {
@@ -877,11 +878,11 @@ h3.service-title a:hover {
 }
 
 .single-service-box:hover .service-icon {
-    background: #cd0d14;
+    background: black;
 }
 
 .single-service-box:hover .service-thumb:before {
-    background: #152B63;
+    background: #e44d26;
 }
 
 
@@ -2044,7 +2045,7 @@ h2.blog-title a {
     top: 0;
     bottom: 0;
     right: 0;
-    background: #f16529;
+    background: black;
     border-radius: 5px 30px 30px 30px;
     z-index: -1;
     transform: scale(0);
@@ -6991,7 +6992,7 @@ span.flaticon-multiply i {
     color: #fff;
     top: 3px;
     z-index: 1;
-    background: #da242b;
+    background: #e44d26;
 }
 
  .top-wrap .go-top-button i {
@@ -7190,6 +7191,7 @@ span.flaticon-multiply i {
 }
 h1{
     font-family: 'bristone';
+    text-transform: uppercase;
 }
 h2{
     font-family: 'bristone';
@@ -7202,6 +7204,7 @@ h4{
 }
 h5{
     font-family: 'bristone';
+    text-transform: uppercase;
 }
 h6{
     font-family: 'bristone';
